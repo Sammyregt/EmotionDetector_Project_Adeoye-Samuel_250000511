@@ -8,7 +8,7 @@ import os
 app = Flask(__name__)
 
 # Load trained deep learning model
-model = load_model("emotion_model.h5")
+model = load_model("model/emotion_model.h5")
 
 # Emotion categories (must match your model output)
 EMOTIONS = ["Angry", "Disgust", "Fear", "Happy", "Sad", "Surprise", "Neutral"]
