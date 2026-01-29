@@ -1,5 +1,5 @@
 1. Name ----------------------------------- Adeoye Samuel
 2. Matric Number -------------------------- 250000511
 3. Emotion recognition model or API used -- Tensorflow
-4. Live URL of the hosted application ----- 
+4. Live URL of the hosted application ----- https://emotiondetector-project-adeoye-samuel.onrender.com/
 5. GitHub repository link ----------------- https://github.com/Sammyregt/EmotionDetector_Project_Adeoye-Samuel_250000511
